@@ -1,0 +1,144 @@
+Divita Phadakale 8626
+
+Experiment No 12
+Write a TCP client server  menu based application 
+
+
+-------------------------------SERVER SIDE-----------------------------------------
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>javac Server.java
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Server
+Server has started
+A client has joined
+Client Left
+
+A client has joined
+Client Left
+
+A client has joined
+Client Left
+
+A client has joined
+Client Left
+
+A client has joined
+Client Left
+
+A client has joined
+Client Left
+
+A client has joined
+Client Left
+
+A client has joined
+Client Left
+
+------------------------------------CLIENT SIDE---------------------------------------
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>javac Client.java
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+1
+Enter the number
+5
+Factorial of 5 is 120
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+2
+Enter the base
+2
+Enter the power
+4
+Power is 16
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+3
+Enter the number
+112211
+It is a Palindrome
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+3
+Enter the number
+1113
+It is not a Palindrome
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+4
+Enter the number
+153
+It is an Armstrong number
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+4
+Enter the number
+120
+It is not an Armstrong number
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+5
+Enter the number
+17
+It is a Prime number
+
+C:\Users\DivitaP\Desktop\Sem5\CN\exp 12 tcp>java Client
+Client has started
+1: Factorial
+2: Power
+3: Check Palindrome
+4: Check Armstrong
+5: Check Prime
+Which operation do you have to perform:
+5
+Enter the number
+30
+It is not a Prime number
